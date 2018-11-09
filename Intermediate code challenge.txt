@@ -1,0 +1,55 @@
+
+    The 2019 Nigerian Election is almost here and INEC has decided that this election, it would use an electronic voting machine in 5 states!
+    You are on the SW development team and you have been put in charge of designing a ballot counting program. 
+    
+	The states are: 
+	
+	Lagos, Oyo, Abia, Enugu, and Kaduna.
+
+    I have attached 5 other text files named: 
+
+	[Lagos_votes] [Oyo_votes] [Abia_votes] [Enugu_votes] [Kaduna_votes] 
+	 
+	These text files contain Votes from each state. 
+	
+     The following parties running are: 
+
+	 ACP, SDP, YYP, APC and PDP
+
+   a. Using a function/class, count the number of votes  each party received in each state.  
+       E.g 
+	   
+	   def Lagos(): 
+			
+			YYP = #Number of votes 
+			APC = #Number of votes .
+			PDP = #Number of votes 
+		
+		return 
+	
+	repeat the same format for the 4 other states. 
+
+	
+	
+   b. Which party had the most votes in each state ? 
+	  Please do not simply print the answer from you being able to see what the answer is. 
+	  write some lines of code that comes to this conclusion 
+      Implement this task using a function/class 
+   
+   c. who had the most votes in the entire country ? 
+      Implement this task using a function/class for this task 
+   
+   d. Now suppose we find out that 20% of the APC votes from Lagos were from voters that did not exist, 
+      and 30% of PDP's votes from Enugu were also falsified, 
+      determine who might be the new winner? 
+	  Implement this using a  function/class.
+	  
+   e. In addition to the falsification,suppose we found out that 30% of the YYP's total votes recorded by INEC were changed to ACP's vote, 
+      determine who might be the new winner ?   	   Implement this using a function/class for this 
+
+   f. Now suppose the inauguration date of the winner is May 15th 2019, write code that will always determine 
+      the current number of days until the ceremony.  
+	  define a function for this. 
+	  No need to implement this using a function/class. 
+	  
+	g. Lastly out of these 5 parties,  tell me which party you are most likely to vote for? (free will answer). 
